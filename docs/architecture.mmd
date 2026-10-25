@@ -1,0 +1,11 @@
+flowchart TD
+    A[Deterministic Synthetic CSV] --> B[Schema and Data Validation]
+    B --> C[Stratified Train / Test Split]
+    C --> D[Training Split: 5-Fold Stratified CV]
+    D --> E[Compare Dummy Baseline, Logistic Regression, Random Forest]
+    E --> F[Select Candidate by Mean CV ROC-AUC]
+    F --> G[Fit Selected Pipeline on Full Training Split]
+    G --> H[Held-Out Test Evaluation]
+    H --> I[Metrics, Confusion Matrix, ROC, Permutation Importance]
+    G --> J[Saved scikit-learn Pipeline]
+    J --> K[New Customer Predictions]

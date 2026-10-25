@@ -1,0 +1,30 @@
+{
+  "project": "Customer Churn Prediction",
+  "dataset_type": "synthetic; generated deterministically for portfolio demonstration",
+  "n_rows": 4000,
+  "n_features": 16,
+  "target": "churn",
+  "positive_class": 1,
+  "random_state": 42,
+  "test_size": 0.2,
+  "cv_folds": 5,
+  "selection_metric": "mean cross-validated ROC-AUC on training split",
+  "selected_model": "Logistic Regression",
+  "selected_model_cv_roc_auc_mean": 0.7298685338828313,
+  "selected_model_cv_roc_auc_std": 0.010309531490487227,
+  "test_metrics": {
+    "accuracy": 0.6975,
+    "balanced_accuracy": 0.698640633425093,
+    "precision": 0.3786407766990291,
+    "recall": 0.7005988023952096,
+    "f1_score": 0.49159663865546216,
+    "roc_auc": 0.7735618809773817,
+    "average_precision": 0.513160640473066
+  },
+  "test_rows": 800,
+  "train_rows": 3200,
+  "churn_rate_overall": 0.2085,
+  "churn_rate_test": 0.20875,
+  "threshold": 0.5,
+  "important_note": "This is a synthetic demonstration dataset. Metrics do not represent real customer or production performance."
+}

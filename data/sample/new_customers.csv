@@ -1,0 +1,21 @@
+customer_id,tenure_months,monthly_charges,total_charges,support_tickets_6m,late_payments_12m,usage_hours_monthly,senior_citizen,contract_type,internet_service,payment_method,paperless_billing,partner,dependents,tech_support,online_security,streaming_tv
+900001,44,73.5,2751.24,0,0,21.6,0,Month-to-month,Fiber optic,Electronic check,No,No,No,Yes,No,No
+900002,57,98.84,4884.0,0,0,77.5,0,One year,DSL,Credit card,Yes,No,No,No,Yes,No
+900003,27,101.19,2458.46,1,0,35.2,0,Month-to-month,DSL,Electronic check,No,Yes,Yes,Yes,No,Yes
+900004,45,58.91,2469.7,2,0,62.2,0,Month-to-month,Fiber optic,Electronic check,Yes,Yes,No,Yes,No,Yes
+900005,26,87.88,1898.98,0,0,45.4,0,Month-to-month,Fiber optic,Electronic check,Yes,Yes,Yes,No,No,Yes
+900006,66,63.12,3899.74,1,0,87.5,0,Month-to-month,Fiber optic,Electronic check,Yes,No,Yes,Yes,No,No
+900007,7,38.06,259.35,0,0,9.5,0,Two year,Fiber optic,Bank transfer,Yes,Yes,No,No,No,Yes
+900008,34,83.72,2523.14,1,0,81.5,1,Month-to-month,DSL,Unknown,No,No,Yes,No,Yes,Yes
+900009,27,86.53,2231.27,0,0,51.9,0,Month-to-month,Fiber optic,Mailed check,Yes,No,No,Yes,No,Yes
+900010,1,70.22,67.36,0,0,90.8,1,Month-to-month,Fiber optic,Bank transfer,No,No,No,Yes,Yes,No
+900011,0,63.06,0.0,2,0,67.4,0,Month-to-month,Fiber optic,Credit card,Yes,No,Yes,No,Yes,No
+900012,38,71.04,2829.36,1,1,60.7,0,One year,Fiber optic,Credit card,Yes,Yes,Yes,No,Yes,Yes
+900013,71,49.31,3573.04,0,1,39.0,0,One year,Fiber optic,Credit card,No,No,Yes,Yes,No,Yes
+900014,56,78.64,4122.61,1,0,65.7,0,One year,Fiber optic,Electronic check,Yes,Yes,Yes,No,No,No
+900015,25,77.58,1636.83,3,0,47.7,0,One year,Fiber optic,Bank transfer,No,Yes,No,Yes,No,Yes
+900016,70,54.58,3156.73,1,0,41.3,0,Two year,Fiber optic,Credit card,Yes,Yes,No,Yes,No,Yes
+900017,46,91.93,3900.11,0,1,53.1,0,Two year,Fiber optic,Credit card,Yes,No,No,Yes,No,No
+900018,55,95.7,5247.68,1,1,49.7,0,One year,None,Mailed check,No,No,No,Yes,Yes,Yes
+900019,71,80.5,5383.44,0,2,83.9,0,Two year,Fiber optic,Electronic check,Yes,No,Yes,No,No,Yes
+900020,26,52.22,1263.62,2,1,79.1,0,Month-to-month,Fiber optic,Electronic check,No,No,No,No,No,No
